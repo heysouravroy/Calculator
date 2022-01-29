@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    margin-top: 25px;
+}
+
+table {
+    margin: 20px;
+}
+
+input {
+    border-radius: 21px;
+    border: 4px solid;
+    font-size: 32px;
+}
+
+button {
+    font-weight: 500;
+    font-size: 42px;
+    background: rgb(41, 41, 41);
+    width: 95px;
+    height: 90px;
+    border-radius: 29px;
+    color: white;
+}
+
+.calculator {
+    display: inline-block;
+    background-color: rgb(16 106 67 / 92%);
+    padding: 13px;
+    border-radius: 21px;
+}
+
+h1 {
+    font-size: 55px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
