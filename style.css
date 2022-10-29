@@ -25,12 +25,12 @@ button {
 
 .calculator {
     display: inline-block;
-    background-color: rgb(16 106 67 / 92%);
-    padding: 13px;
-    border-radius: 21px;
+    background-color: rgb(16 106 69 / 92%);
+    padding: 14px;
+    border-radius: 22px;
 }
 
 h1 {
-    font-size: 55px;
+    font-size: 60px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
